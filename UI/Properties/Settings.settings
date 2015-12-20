@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SoundBinLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Steam\steamapps\common\Dyad\SoundBin</Value>
+    </Setting>
+    <Setting Name="TargetFileFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.wav</Value>
+    </Setting>
+    <Setting Name="ConverterLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OrganizeInSubdirectories" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SubdirectoryOrganization" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Extracted_%FileName%</Value>
+    </Setting>
+    <Setting Name="RenameFilePattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%FileName%-%RawFileNumber%</Value>
+    </Setting>
+    <Setting Name="PadRawFileNumberWithZeroes" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RenameFiles" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SaveParametersOnExit" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DeleteExtractedFiles" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OutputLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Dyad Extracted Sounds</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
