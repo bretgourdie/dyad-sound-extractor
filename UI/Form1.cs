@@ -51,7 +51,7 @@ namespace UI
             string path,
             ListView.ListViewItemCollection items)
         {
-            var filePaths = Directory.GetFiles(path, "*.bsd");
+            var filePaths = Directory.GetFiles(path);
 
             items.Clear();
 
